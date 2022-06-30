@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emadph
 - 👀 I’m interested in Developing 
 - 🌱 I’m currently learning MVVM + Clean Architect
-- 💞️ I’m looking to collaborate on Big Companies
+- 💞️ I'm looking to collaborate on Big Companies
 - 📫 How to reach me (http://emadpourahmadi.ir/)
 
 <!---
